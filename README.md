@@ -58,7 +58,7 @@ jupyter lab
 
 This should stream an output to your terminal, and start a Jupyter Lab session inside your browser. The browser sesion should look a bit like this:
 
-![Drop down menu repo download](graphics/jupyter_lab.JPG | width=500)
+<img src=graphics/jupyter_lab.JPG width="400">
 
 If you run into any permission issues with the download or installation, please contact helpdesk@icr.ac.uk.
 If you have any issues verifying your installation, please contact scsoftware@icr.ac.uk.
@@ -73,4 +73,4 @@ git clone git@github.com:instituteofcancerresearch/intro-to-python.git
 
 Otherwise, download and decompress the zip files manually as shown below.
 
-![Drop down menu repo download](graphics/zip_download.JPG | width=500)
+<img src=graphics/zip_download.JPG  width="600">
