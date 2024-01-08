@@ -37,7 +37,7 @@ Once the download has completed, we will need to open a terminal
 
 - **Windows users**
     1. Press start
-    2. Type "PowerShell" and open the application
+    2. Type "Anaconda PowerShell" and open the application
 - **MacOS users**
     1. Press cmd
     2. Type "Terminal" and open the application
@@ -65,7 +65,7 @@ If you have any issues verifying your installation, please contact scsoftware@ic
 
 ### 🗃️ Downloading the repository
 
-For those familiar with `git`, simply
+For those familiar with `git`, simply navigate to a directory you want to keep the files in, then:
 
 ```shell
 git clone git@github.com:instituteofcancerresearch/intro-to-python.git
