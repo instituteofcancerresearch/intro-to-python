@@ -83,9 +83,11 @@ Assuming you have decompressed the zip file within the default "Downloads" folde
     ```shell
     cd Downloads
     cd intro-to-python
-    jupyter lab```
+    jupyter lab
+    ```
 - **Mac OS users**
     ```shell
     cd ~/Downloads
     cd intro-to-python
-    jupyter lab```
+    jupyter lab
+    ```
