@@ -29,3 +29,5 @@ For larger projects you may want to use a different IDE.
 
 ### Jupyter notebooks
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Probabilistic Machine learning, by Kevin Murphy](https://github.com/probml/pyprobml)
+- [AlphaFold on google colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
