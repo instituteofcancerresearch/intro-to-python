@@ -91,3 +91,10 @@ Assuming you have decompressed the zip file within the default "Downloads" folde
     cd intro-to-python
     jupyter lab
     ```
+
+### 🖥️ Not-Recommended alternative
+
+If necessary there is the option to uise an online version of Jupyter Lab, though this is not recommended as it is not as reliable as the local installation and you will not be able to keep and return to your work in the same way. To access this version click:  
+[Jupyter online](https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb)
+
+You will still need to download the files as per the instructions above, and then upload them into this online version of Jupyter Lab. The sub directory structure will need to be created manually.
