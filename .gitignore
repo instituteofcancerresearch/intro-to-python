@@ -1,3 +1,15 @@
 .idea/
 .ipynb_checkpoints/
 numbers.txt
+my_figure.pdf
+my_figure.png
+data/me.pdf
+data/me.png
+data/me2.png
+data/my_plot_xy.pdf
+data/my_plot_xz.pdf
+data/my_plot_yz.pdf
+data/my_plot.pdf
+data/my_plot.png
+data/my.png
+data/plotly.html
